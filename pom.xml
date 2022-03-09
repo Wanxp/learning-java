@@ -12,6 +12,7 @@
         <module>jvm</module>
         <module>mysql</module>
         <module>springboot</module>
+        <module>java-stream</module>
     </modules>
 
 
